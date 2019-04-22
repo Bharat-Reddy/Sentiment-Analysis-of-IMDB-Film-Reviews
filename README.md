@@ -2,22 +2,22 @@
 This project was done as a part of computational intelligence course.
 ### Workflow
 #### 1. Text data pre-processing <br>
-    a. Removing Punctuation and HTML Tags.<br>
-    b. Converting every letter<br>
-    c. Converting every number to corresponding text(i.e. '5' is converted to 'five')<br>
-    d. Removing Stop Words<br><br>
+    a. Removing Punctuation and HTML Tags
+    b. Converting every letter 
+    c. Converting every number to corresponding text(i.e. '5' is converted to 'five') 
+    d. Removing Stop Words 
     
-#### 2. Normalizing Text Data<br>
-    a. Stemming<br>
-    b. Lemmatization<br><br>
+#### 2. Normalizing Text Data
+    a. Stemming
+    b. Lemmatization
 
-#### 3. Data Representation<br>
-    a. Vectorization using Binary Representation<br>
-    b. Vectorization using Word Count<br>
-    c. Vectorization using TF-IDF<br><br>
+#### 3. Data Representation
+    a. Vectorization using Binary Representation
+    b. Vectorization using Word Count
+    c. Vectorization using TF-IDF
 
-#### 4. Data Classification<br>
-    a. Logistic Regression Model<br>
-    b. SVM Classifier<br>
+#### 4. Data Classification
+    a. Logistic Regression Model
+    b. SVM Classifier
 
 ## By Experimenting various model parameters, Finally broke the 90% accuracy mark!
